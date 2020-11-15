@@ -19,5 +19,6 @@
    
    <a href="https://github.com/anandprateek"> **Prateek Anand** </a>
   <hr>
-![img](https://drive.google.com/file/d/1v6fjfQ0CgXDrvoIi01v1E6q2OwRGMUUR/view?usp=sharing)
+
+ https://drive.google.com/file/d/1v6fjfQ0CgXDrvoIi01v1E6q2OwRGMUUR/view?usp=sharing
 
