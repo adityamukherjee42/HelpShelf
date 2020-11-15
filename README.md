@@ -19,5 +19,5 @@
    
    <a href="https://github.com/anandprateek"> **Prateek Anand** </a>
   <hr>
-  ![HomePage](https://user-images.githubusercontent.com/60893631/99200096-58673280-27c9-11eb-9a71-3645b92848e4.jpeg)
-  
+![WeeklyPlannergif](https://user-images.githubusercontent.com/60893631/99200156-b3008e80-27c9-11eb-8c22-4e76e55b2fbe.gif)
+
