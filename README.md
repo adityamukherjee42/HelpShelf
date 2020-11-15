@@ -1,2 +1,21 @@
-# HelpShelf
-Helpshelf is student organizer website. It has features like calculator, sticky notes, and weekly planner that will help student in organizing their schedule.Not only this ,HelpShelf has its own virtual assistant Neo,who can do various tasks like open excel,search on google,search on Stackoverflow and many more to make their life easier 
+<div align='center'>
+  <h2>Official Repository for Defhacks 2.0</h2>
+  </div>
+ 
+<div align="center">
+  <h2>💻Project Name : 'HelpShelf'📱</h2>
+  
+  <h2>🛣️Track : Miscellaneous -Beginner Track</h2>
+  
+  <h3>Team Members🤝</h3>
+  
+  <a href="https://github.com/asityamukherjee42"> **Aditya Mukherjee** </a>
+  
+  <a href="https://github.com/MEETDESAI2509"> **Meet Desai** </a>
+  
+  <a href="https://github.com/Vishvakb"> **Vishvak Bhatt** </a>
+  
+   <a href="https://github.com/deeksha7927"> **Deeksha Rawat** </a>
+   
+   <a href="https://github.com/anandprateek"> **Prateek Anand** </a>
+  <hr>
