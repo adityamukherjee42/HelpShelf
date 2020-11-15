@@ -5,7 +5,7 @@
 <div align="center">
   <h2>💻Project Name : 'HelpShelf'📱</h2>
   
-  <h2>🛣️Track : Miscellaneous -Beginner Track</h2>
+  <h2>🛣️Track :Beginner Track</h2>
   
   <h3>Team Members🤝</h3>
   
@@ -19,3 +19,5 @@
    
    <a href="https://github.com/anandprateek"> **Prateek Anand** </a>
   <hr>
+  
+  
