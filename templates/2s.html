@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+   <link rel="stylesheet" href="../static/CSS/2s.css">
+   <title>Weekly Planner</title>
+</head>
+<body>
+   <header>
+      <h1>Weekly Planner</h1>
+      <div id="user-input">
+         <input type="text" placeholder="Add a Task..." id="task">
+         <select name="days" id="days">
+            <option value="monday">Monday</option>
+            <option value="tuesday">Tuesday</option>
+            <option value="wednesday">Wednesday</option>
+            <option value="thursday">Thursday</option>
+            <option value="friday">Friday</option>
+            <option value="saturday">Saturday</option>
+            <option value="sunday">Sunday</option>
+         </select>
+         <button type="button" onclick="addItem()">Add Task</button>
+         <button type="button" onclick="popOffItem()">Remove Selected</button>
+      </div>
+   </header>
+   <main>
+      <div class="day" id="monday"><h3>Monday</h3></div>
+      <div class="day" id="tuesday"><h3>Tuesday</h3></div>
+      <div class="day" id="wednesday"><h3>Wednesday</h3></div>
+      <div class="day" id="thursday"><h3>Thursday</h3></div>
+      <div class="day" id="friday"><h3>Friday</h3></div>
+      <div class="day" id="saturday"><h3>Saturday</h3></div>
+      <div class="day" id="sunday"><h3>Sunday</h3></div>
+   </main>
+
+   <script src="../static/js/2s.js"></script>
+</body>
+</html>
