@@ -19,6 +19,4 @@
    
    <a href="https://github.com/anandprateek"> **Prateek Anand** </a>
   <hr>
-
- https://drive.google.com/file/d/1v6fjfQ0CgXDrvoIi01v1E6q2OwRGMUUR/view?usp=sharing
-
+![Images](https://github.com/sd2001/-le-medicin/blob/master/mockupp.png)  
