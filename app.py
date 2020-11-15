@@ -190,7 +190,7 @@ def voice():
 
                 webbrowser.open("www.geeksforgeeks.com")
 
-                continue
+                break
 
 
 
@@ -201,7 +201,7 @@ def voice():
 
                 webbrowser.open("https://www.google.com/search?q=" + query)
 
-                continue
+                break
 
             elif "in youtube" in query:
 
@@ -217,7 +217,7 @@ def voice():
 
                 webbrowser.open("https://stackoverflow.com/questions/tagged/" + query)
 
-                continue
+                break
 
             elif "youtube" in query:
 
@@ -225,31 +225,31 @@ def voice():
 
                 webbrowser.open("https://www.youtube.com")
 
-                continue
+                break
 
             elif "open google" in query:
 
                 speak("Opening Google")
                 webbrowser.open("https://www.Google.com")
 
-                continue
+                break
             elif "open gmail" in query:
 
                 speak("Opening Mail")
                 webbrowser.open("https://mail.google.com/mail/u/0/#inbox")
 
-                continue
+                break
             elif "open classroom" in query:
 
                 speak("Opening Google Classroom")
                 webbrowser.open("https://classroom.google.com/u/0/h")
-                continue
+                break
 
             elif "which day it is" in query:
 
                 tellDay()
 
-                continue
+                break
 
 
 
@@ -259,7 +259,7 @@ def voice():
 
                 tellTime()
 
-                continue
+                break
 
 
 
@@ -291,7 +291,7 @@ def voice():
             elif 'open' in query:
                 open_application(query.lower())
 
-                continue
+                break
 
 
             elif "tell me your name" in query:
