@@ -19,5 +19,5 @@
    
    <a href="https://github.com/anandprateek"> **Prateek Anand** </a>
   <hr>
-  ![alt text](https://github.com/adityamukherjee42/HelpShelf/blob/master/HomePage.jpeg?raw=true)
+  ![HomePage](https://user-images.githubusercontent.com/60893631/99200096-58673280-27c9-11eb-9a71-3645b92848e4.jpeg)
   
