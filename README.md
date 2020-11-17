@@ -24,11 +24,22 @@
   
   </div>
  In this times of hard ship and pandemic,one of the worst hit fields is the education sector.Student have to study online and face hughe problem of organizing their stuff and workload.We as our team,NeoPhytes thouht of a solution i.e The HelpShelf,the student organizer.It is a website with features like 
- Sticky Notes
+ <h3>Sticky Notes</h3>
+ <div align="center">
  <img src="https://user-images.githubusercontent.com/60893631/99366533-c18c9a00-28de-11eb-8302-8d3dda86fde3.gif" />
-),Week planner  
- <img src="https://drive.google.com/file/d/1v6fjfQ0CgXDrvoIi01v1E6q2OwRGMUUR/view?usp=sharing" /> 
- , Calculator (https://drive.google.com/file/d/1g5Obba-N1qNxhsV1lYoeN_dvZT0humX1/view?usp=sharing) ,and its very own Virtual assisstant which can do various tasks form searching ggogle and stackoverflow to helping then open applications.(https://drive.google.com/file/d/1GnsxUSPD8NsIJ59fWeQx66Fvx_5x7SU-/view?usp=sharing),(https://drive.google.com/file/d/1lovcl32xZz2CPON3wLKumlIgPtHRtsF4/view?usp=sharing).
+  </div>
+ <h3>Week planner</h3>
+ <div align="center">
+ <img src="https://user-images.githubusercontent.com/60893631/99366849-2b0ca880-28df-11eb-9158-4e2370d2159e.gif" />
+ </div>
+ <h3>Calculator</h3>
+ <div align="center">
+ <img src="https://user-images.githubusercontent.com/60893631/99366977-5abbb080-28df-11eb-81da-ab4f12655aca.gif" />
+ </div>
+ <h3>and its very own Virtual assisstant-**NEO**-which can do various tasks form searching ggogle and stackoverflow to helping then open applications.</h3>
+ <div align="center">
+ <img src="https://user-images.githubusercontent.com/60893631/99367759-5f349900-28e0-11eb-8a7a-280b749e6d0d.gif" />
+ </div>
  
  We at Neophyte belive HelpShelf is much required help for the students
  
