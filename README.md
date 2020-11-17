@@ -25,7 +25,7 @@
   </div>
  In this times of hard ship and pandemic,one of the worst hit fields is the education sector.Student have to study online and face hughe problem of organizing their stuff and workload.We as our team,NeoPhytes thouht of a solution i.e The HelpShelf,the student organizer.It is a website with features like 
  Sticky Notes
- <img src="https://user-images.githubusercontent.com/60893631/99366027-1085ff80-28de-11eb-9af7-f7bfefef6352.jpeg" />
+ <img src="https://user-images.githubusercontent.com/60893631/99366533-c18c9a00-28de-11eb-8302-8d3dda86fde3.gif" />
 ),Week planner  
  <img src="https://drive.google.com/file/d/1v6fjfQ0CgXDrvoIi01v1E6q2OwRGMUUR/view?usp=sharing" /> 
  , Calculator (https://drive.google.com/file/d/1g5Obba-N1qNxhsV1lYoeN_dvZT0humX1/view?usp=sharing) ,and its very own Virtual assisstant which can do various tasks form searching ggogle and stackoverflow to helping then open applications.(https://drive.google.com/file/d/1GnsxUSPD8NsIJ59fWeQx66Fvx_5x7SU-/view?usp=sharing),(https://drive.google.com/file/d/1lovcl32xZz2CPON3wLKumlIgPtHRtsF4/view?usp=sharing).
