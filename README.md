@@ -36,7 +36,7 @@
  <div align="center">
  <img src="https://user-images.githubusercontent.com/60893631/99366977-5abbb080-28df-11eb-81da-ab4f12655aca.gif" />
  </div>
- <h3>and its very own Virtual assisstant-**NEO**-which can do various tasks form searching ggogle and stackoverflow to helping then open applications.</h3>
+ <h3>and its very own Virtual assisstant-<b>NEO</b>-which can do various tasks form searching Google and stackoverflow to helping then open applications.</h3>
  <div align="center">
  <img src="https://user-images.githubusercontent.com/60893631/99367759-5f349900-28e0-11eb-8a7a-280b749e6d0d.gif" />
  </div>
