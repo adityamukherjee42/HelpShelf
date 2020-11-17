@@ -23,7 +23,9 @@
 <h3>📟Our Hack in brief🖥️</h3>
   
   </div>
- In this times of hard ship and pandemic,one of the worst hit fields is the education sector.Student have to study online and face hughe problem of organizing their stuff and workload.We as our team,NeoPhytes thouht of a solution i.e The HelpShelf,the student organizer.It is a website with features like Sticky Notes (https://drive.google.com/file/d/1DgHrTa20uNb5Bc0Jfg2qrDBA-qoDqNEP/view?usp=sharing),Week planner  (https://drive.google.com/file/d/1v6fjfQ0CgXDrvoIi01v1E6q2OwRGMUUR/view?usp=sharing) , Calculator (https://drive.google.com/file/d/1g5Obba-N1qNxhsV1lYoeN_dvZT0humX1/view?usp=sharing) ,and its very own Virtual assisstant which can do various tasks form searching ggogle and stackoverflow to helping then open applications.(https://drive.google.com/file/d/1GnsxUSPD8NsIJ59fWeQx66Fvx_5x7SU-/view?usp=sharing),(https://drive.google.com/file/d/1lovcl32xZz2CPON3wLKumlIgPtHRtsF4/view?usp=sharing).
+ In this times of hard ship and pandemic,one of the worst hit fields is the education sector.Student have to study online and face hughe problem of organizing their stuff and workload.We as our team,NeoPhytes thouht of a solution i.e The HelpShelf,the student organizer.It is a website with features like Sticky Notes (https://drive.google.com/file/d/1DgHrTa20uNb5Bc0Jfg2qrDBA-qoDqNEP/view?usp=sharing),Week planner  
+ <img src="https://drive.google.com/file/d/1v6fjfQ0CgXDrvoIi01v1E6q2OwRGMUUR/view?usp=sharing" /> 
+ , Calculator (https://drive.google.com/file/d/1g5Obba-N1qNxhsV1lYoeN_dvZT0humX1/view?usp=sharing) ,and its very own Virtual assisstant which can do various tasks form searching ggogle and stackoverflow to helping then open applications.(https://drive.google.com/file/d/1GnsxUSPD8NsIJ59fWeQx66Fvx_5x7SU-/view?usp=sharing),(https://drive.google.com/file/d/1lovcl32xZz2CPON3wLKumlIgPtHRtsF4/view?usp=sharing).
  
  We at Neophyte belive HelpShelf is much required help for the students
  
