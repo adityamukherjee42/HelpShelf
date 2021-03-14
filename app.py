@@ -32,6 +32,7 @@ def calc():
     return render_template('1.html')
 
 @app.route("/voice_assistant")
+#voice_assistant
 def voice():
 
 
